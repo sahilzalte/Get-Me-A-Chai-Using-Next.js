@@ -1,4 +1,4 @@
-# ☕ Get Me A Chai - Patreon Clone
+# ☕ Get Me A Chai - Patreon Clone Using Next.js
 
 A full-stack Patreon-inspired platform that allows users to support creators by sending payments. Built with **Next.js**, **Tailwind CSS**, **MongoDB**, and **Razorpay** integration for seamless and secure transactions.
 
